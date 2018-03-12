@@ -8,5 +8,6 @@ Testing first commit - 27/2/18
 Adding Chapter1 - 3/3/18
 Start of Chapter1 - 12/3/18
 End off Chapter1 - 12/3/18
+Fix Spellings Chapter1 - 12/3/18
 
 .. matt smith ...
