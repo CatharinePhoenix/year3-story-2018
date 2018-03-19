@@ -15,5 +15,6 @@ Adding Chapter3 - 19/3/18
 Start of Chapter3 - 19/3/18
 Fix Spelling in chapter3 - 19/3/18
 Finish Chapter3 - 19/3/18
+Fix spellings in chapter3 - 19/3/18
 
 .. Catharine Phoenix ...
