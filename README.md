@@ -18,7 +18,7 @@ Finish Chapter3 - 19/3/18
 Fix spellings in chapter3 - 19/3/18
 Start of alternative ending - 19/3/18
 Added to alternative ending - 19/3/18
-
+Finish alternative ending - 19/3/18
 
 
 .. Catharine Phoenix ...
