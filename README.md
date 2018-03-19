@@ -1,11 +1,11 @@
-# year3-story-2018
-<h1> Chapter 1 </h1>
+# Cinderella
+<h2> Chapter 1 </h2>
 [Chapter1](Chapter1.html)
 <br>
-<h1> Chapter 2 </h1>
+<h2> Chapter 2 </h2>
 [Chapter2](Chapter2.html)
 <br>
-<h1> Chapter 3 </h1>
+<h2> Chapter 3 </h2>
 [Chapter3](Chapter3.html)
 
 Testing first commit - 27/2/18
