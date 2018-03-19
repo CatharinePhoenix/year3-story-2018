@@ -20,5 +20,7 @@ Start of alternative ending - 19/3/18
 Added to alternative ending - 19/3/18
 Finish alternative ending - 19/3/18
 
+Github Pages Link - https://catharinephoenix.github.io/year3-story-2018/
+
 
 .. Catharine Phoenix ...
