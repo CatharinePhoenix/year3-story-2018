@@ -1,8 +1,12 @@
 # year3-story-2018
-repository to fork for the 'git story' assessment
-
-for this repo, to use as a starting point for your story
-(and don't forget to complete your assessment by making a 'pull request' back to me...)
+<h1> Chapter 1 </h1>
+[Chapter1](Chapter1.html)
+<br>
+<h1> Chapter 2 </h1>
+[Chapter2](Chapter2.html)
+<br>
+<h1> Chapter 3 </h1>
+[Chapter3](Chapter3.html)
 
 Testing first commit - 27/2/18
 Adding Chapter1 - 3/3/18
