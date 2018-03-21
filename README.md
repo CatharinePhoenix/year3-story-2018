@@ -8,6 +8,8 @@
 <h2> Chapter 3 </h2>
 [Chapter3](Chapter3.html)
 
+
+Note - when using the terminal to make commits, git picked up my public git profile - CathPhoenix, even though I forked from my private git profile - CatharinePhoenix
 Testing first commit - 27/2/18
 Adding Chapter1 - 3/3/18
 Start of Chapter1 - 12/3/18
